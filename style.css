@@ -17,3 +17,22 @@
     border-radius: 5px;
     box-shadow: 0 20px 35px rgba(60,60,60,0.2);
 }
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper input{
+    width: 60%;
+    padding: 10px 5px;
+    border-radius: 3px;
+    border: 1px solid #201d2e;
+}
+.wrapper button{
+    width: 30%;
+    background-color: #5e8b7e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #ffffff;
+    border-radius: 3px;
+}
