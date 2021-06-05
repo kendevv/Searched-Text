@@ -5,3 +5,15 @@
     font-family: "Rubik",sans-serif;
 }
 
+
+.container{
+    width: 90vmin;
+    background-color: #ffffff;
+    padding: 50px 40px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 0 20px 35px rgba(60,60,60,0.2);
+}
